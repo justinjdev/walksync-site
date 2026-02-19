@@ -39,9 +39,10 @@
 		<section>
 			<h2>Third-Party Services</h2>
 			<p>
-				WalkSync integrates with Strava. Your use of Strava features is subject to
-				<a href="https://www.strava.com/legal/terms" target="_blank" rel="noopener">Strava's Terms of Service</a>.
-				We are not responsible for Strava's service availability or data handling.
+				WalkSync integrates with Strava and Apple Health. Your use of these features is subject to
+				<a href="https://www.strava.com/legal/terms" target="_blank" rel="noopener">Strava's Terms of Service</a>
+				and <a href="https://www.apple.com/legal/internet-services/itunes/" target="_blank" rel="noopener">Apple's Terms of Service</a>.
+				We are not responsible for third-party service availability or data handling.
 			</p>
 		</section>
 
@@ -86,7 +87,7 @@
 			<h2>Contact</h2>
 			<p>
 				Questions about these terms? Contact me at
-				<a href="mailto:walksync@justinj.dev">walksync@justinj.dev</a>
+				<a href="mailto:justin@justinj.dev">justin@justinj.dev</a>
 			</p>
 		</section>
 	</article>

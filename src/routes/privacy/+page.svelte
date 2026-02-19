@@ -28,6 +28,7 @@
 				<li>Duration of your walking sessions</li>
 				<li>Distance traveled</li>
 				<li>Walking speed</li>
+				<li>Calories burned</li>
 				<li>Session start and end times</li>
 			</ul>
 			<p>This data is stored locally on your device and is not transmitted to any server unless you choose to sync to Strava.</p>
@@ -43,8 +44,16 @@
 			<p>If you choose to connect your Strava account:</p>
 			<ul>
 				<li>We store OAuth tokens securely in your device's Keychain</li>
-				<li>Walking sessions are uploaded to Strava only when you tap "Sync to Strava"</li>
+				<li>Walking sessions are uploaded to Strava automatically when you save a walk</li>
 				<li>We request only the minimum permission needed: activity:write</li>
+			</ul>
+
+			<h3>Apple Health Integration</h3>
+			<p>If you choose to connect Apple Health:</p>
+			<ul>
+				<li>Walking sessions are saved as workouts to Apple Health when you save a walk</li>
+				<li>We write distance, active energy, and workout data</li>
+				<li>We do not read any data from Apple Health</li>
 			</ul>
 		</section>
 
@@ -60,8 +69,9 @@
 		<section>
 			<h2>Third-Party Services</h2>
 			<p>
-				WalkSync integrates with Strava. When you sync activities, your data is subject to
-				<a href="https://www.strava.com/legal/privacy" target="_blank" rel="noopener">Strava's Privacy Policy</a>.
+				WalkSync integrates with Strava and Apple Health. When you sync activities, your data is subject to
+				<a href="https://www.strava.com/legal/privacy" target="_blank" rel="noopener">Strava's Privacy Policy</a>
+				and <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple's Privacy Policy</a>.
 			</p>
 		</section>
 

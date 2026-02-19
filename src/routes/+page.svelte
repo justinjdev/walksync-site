@@ -11,6 +11,7 @@
 		<nav>
 			<a href="/privacy">Privacy Policy</a>
 			<a href="/terms">Terms of Service</a>
+			<a href="/support">Support</a>
 		</nav>
 
 		<p class="footer">
