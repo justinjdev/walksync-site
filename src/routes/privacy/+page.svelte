@@ -84,7 +84,7 @@
 			<h2>Contact</h2>
 			<p>
 				Questions about this policy? Contact me at
-				<a href="mailto:walksync@justinj.dev">walksync@justinj.dev</a>
+				<a href="mailto:justin@justinj.dev">justin@justinj.dev</a>
 			</p>
 		</section>
 	</article>
